@@ -1,5 +1,5 @@
 package Lesson3;
-
+import java.util.*;
 public class MainClassFromLessonTri {
     public static void main(String[] args) {
         int[] a = new int[] { 1, 9 };
