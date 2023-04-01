@@ -1,5 +1,5 @@
 package Lesson3;
-
+import java.util.*;
 public class MainClassFromLessonTri1 {
     static int[] AddItem(int[] array, int item) {
         int length = array.length;
